@@ -191,7 +191,7 @@ input, select, textarea {
 			border-bottom: none;
 		}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: 30px) {
 
 			h1 br, h2 br, h3 br, h4 br, h5 br, h6 br {
 				display: none;
@@ -1074,7 +1074,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: 30px) {
 
 			.row {
 				display: flex;
@@ -3445,7 +3445,7 @@ input, select, textarea {
 				border-bottom-color: #d6d6d6;
 			}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: 30px) {
 
 			.wrapper {
 				padding: 4em 4em 2em 4em ;
@@ -3777,7 +3777,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: 30px) {
 
 			#header {
 				height: auto;
@@ -3797,7 +3797,7 @@ input, select, textarea {
 
 		}
 
-		@media screen and (max-width: 980px) and (orientation: portrait) {
+		@media screen and (max-width: 30px) and (orientation: portrait) {
 
 			#header {
 				padding: 6em 3em 4em 3em ;
@@ -3913,7 +3913,7 @@ input, select, textarea {
 				opacity: 0;
 			}
 
-	@media screen and (max-width: 980px) and (orientation: portrait) {
+	@media screen and (max-width: 30px) and (orientation: portrait) {
 
 		body.is-preload #header .content {
 			-moz-transform: none;
@@ -3998,7 +3998,7 @@ input, select, textarea {
 			font-size: 0.8em;
 		}
 
-		@media screen and (max-width: 980px) {
+		@media screen and (max-width: 30px) {
 
 			#footer {
 				padding: 4em 4em 2em 4em ;
@@ -4024,6 +4024,14 @@ input, select, textarea {
 
 	header div.content{
 		position:relative;
-		left:10%
+		left:10%;
+
 	}
 	
+	.actions{
+		list-style-type: none;
+	}
+
+	.content p{
+		text-align: center;
+	}
