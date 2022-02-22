@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/NCAVPS-P-WebApp/static/css/main.ccb59107.css",
+    "main.js": "/NCAVPS-P-WebApp/static/js/main.ddc60286.js",
+    "static/media/fa-solid-900.svg": "/NCAVPS-P-WebApp/static/media/fa-solid-900.c8a5f7410ef2a4d63988.svg",
+    "static/media/fa-brands-400.svg": "/NCAVPS-P-WebApp/static/media/fa-brands-400.83494ca2906755eeae18.svg",
+    "static/media/fa-solid-900.eot": "/NCAVPS-P-WebApp/static/media/fa-solid-900.2f6dbd9f998fa1413ff7.eot",
+    "static/media/fa-solid-900.ttf": "/NCAVPS-P-WebApp/static/media/fa-solid-900.9b4d14a5508e9cc4ca88.ttf",
+    "static/media/fa-regular-400.svg": "/NCAVPS-P-WebApp/static/media/fa-regular-400.024286359541b224631b.svg",
+    "static/media/fa-brands-400.eot": "/NCAVPS-P-WebApp/static/media/fa-brands-400.85917bf21118aa3f2e14.eot",
+    "static/media/fa-brands-400.ttf": "/NCAVPS-P-WebApp/static/media/fa-brands-400.70150a2b3a50f84aff70.ttf",
+    "static/media/fa-solid-900.woff": "/NCAVPS-P-WebApp/static/media/fa-solid-900.e4efd599b7afce2f7b21.woff",
+    "static/media/fa-brands-400.woff": "/NCAVPS-P-WebApp/static/media/fa-brands-400.cac133c03011645ba509.woff",
+    "static/media/fa-solid-900.woff2": "/NCAVPS-P-WebApp/static/media/fa-solid-900.acc6b6bf6c3214aeb3ef.woff2",
+    "static/media/fa-brands-400.woff2": "/NCAVPS-P-WebApp/static/media/fa-brands-400.dd7467859e54d3b9dae6.woff2",
+    "static/media/fa-regular-400.eot": "/NCAVPS-P-WebApp/static/media/fa-regular-400.6810be1da91e3f344935.eot",
+    "static/media/fa-regular-400.ttf": "/NCAVPS-P-WebApp/static/media/fa-regular-400.a3b4cd30799e10f5fbc2.ttf",
+    "static/media/fa-regular-400.woff": "/NCAVPS-P-WebApp/static/media/fa-regular-400.8a7914c9eb0f44af5d33.woff",
+    "static/media/overlay.png": "/NCAVPS-P-WebApp/static/media/overlay.8e7b82386ecd3c2d6d6f.png",
+    "static/media/fa-regular-400.woff2": "/NCAVPS-P-WebApp/static/media/fa-regular-400.a3f7358b4bd2b708c04d.woff2",
+    "index.html": "/NCAVPS-P-WebApp/index.html",
+    "static/media/pattern-size1.svg": "/NCAVPS-P-WebApp/static/media/pattern-size1.60f7bac819aa04c31750.svg",
+    "static/media/pattern-size3.svg": "/NCAVPS-P-WebApp/static/media/pattern-size3.aedec7ce69ff5c9b21e3.svg",
+    "static/media/pattern-size2.svg": "/NCAVPS-P-WebApp/static/media/pattern-size2.2c1fd5afede323c47e5f.svg",
+    "main.ccb59107.css.map": "/NCAVPS-P-WebApp/static/css/main.ccb59107.css.map",
+    "main.ddc60286.js.map": "/NCAVPS-P-WebApp/static/js/main.ddc60286.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccb59107.css",
+    "static/js/main.ddc60286.js"
+  ]
+}
