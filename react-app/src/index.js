@@ -12,7 +12,6 @@ function App(){
     </Table>
     )
 }
-
 function Table(){
   return(
     <table className='table table-striped'>
