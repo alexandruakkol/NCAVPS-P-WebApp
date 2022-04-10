@@ -1,2 +1,2 @@
 # NCAVPS/P-WebApp, Bucharest Stock Exchange
-<br>Deployed on GitHub Pages
+<br>Deployed at: https://net-net-ncavps.netlify.app/
